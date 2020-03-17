@@ -1,3 +1,82 @@
+@media screen and (max-width: 1080px) {
+  .jumbotron-wrap .inner .box_02 .ttl {
+    font-size: 45px; }
 
+  .jumbotron-wrap {
+    height: 400px; }
+
+  .reason_box .inner .reason_sub_box .flow {
+    margin-bottom: 20px; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item .flow-item-inner .relative h5 {
+    font-size: 14px; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item .flow-item-inner {
+    padding: 20px 20px; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item .flow-item-inner img {
+    height: 12.26rem; }
+
+  .reason_box .inner .reason_sub_box .mem {
+    width: 100%; } }
+@media screen and (max-width: 800px) {
+  .jumbotron-wrap {
+    height: 320px; }
+
+  .about_box .inner {
+    width: 100%; }
+
+  .about_box .inner .box li .txt_box .ttl {
+    font-size: 13px; }
+
+  .about_box .inner .box li .txt_box .sub_ttl {
+    font-size: 11px; }
+
+  .reason_box .inner {
+    width: 90%; }
+
+  .reason_box .inner .reason_sub_box .skill .skill-item .skill-item-inner p {
+    margin-top: 7px;
+    font-size: 11px; }
+
+  .reason_box .inner .reason_sub_box .skill .skill-item .skill-item-inner h2 {
+    margin-top: 10px;
+    font-size: 20px; }
+
+  .reason_box .inner .reason_sub_box .skill-anser {
+    font-size: 22px;
+    width: 80%; }
+
+  .pc {
+    display: none; }
+
+  .mobil {
+    display: inline-block; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item .flow-item-inner .relative h5 {
+    margin: 0; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item .flow-item-inner .relative .about-step-num {
+    width: 30px;
+    height: 30px;
+    line-height: 33px;
+    font-size: 20px;
+    font-weight: 500; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item {
+    height: 14rem; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item .flow-item-inner .flow-item-inner-opac {
+    height: 175px; }
+
+  .reason_box .inner .reason_sub_box .flow .flow-item .flow-item-inner img {
+    height: 10.9rem; }
+
+  .reason_box .inner .reason_sub_box .mem .mem-item .mem-text .mem-text-sho {
+    font-size: 13px; }
+
+  .reason_box .inner .reason_sub_box .mem .mem-item img {
+    width: 250px;
+    margin-right: 20px; } }
 
 /*# sourceMappingURL=responsive.css.map */

@@ -34,7 +34,7 @@ header{
   display: block;
   padding: 100px 0;
   background-size: cover;
-  background-image: url("../img/main.jpg");
+  background-image: url("../img/jump.jpeg");
 
   .inner {
     width: 90%;
@@ -112,7 +112,7 @@ header{
     
 
         .item01 {
-          background-image: url("../img/photo-1559526324-c1f275fbfa32.jpeg");
+          background-image: url("../img/f138979c348cdff04ce3f79f4c491b52.png");
           border-radius: 10px;
           height: 170px;
           background-size: cover;
@@ -120,7 +120,7 @@ header{
         }
 
         .item02 {
-          background-image: url("../img/f138979c348cdff04ce3f79f4c491b52.png");
+          background-image: url("../img/photo-1559526324-c1f275fbfa32.jpeg");
           border-radius: 10px;
           height: 170px;
           background-size: cover;
@@ -548,4 +548,7 @@ ul{
 }
 .relative{
   position: relative;
+}
+.mobil{
+  display: none;
 }
